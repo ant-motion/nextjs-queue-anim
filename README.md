@@ -2,6 +2,8 @@
 
 # Ant Design example
 
+ant design source: https://github.com/zeit/next.js/tree/v3-beta/examples/with-ant-design
+
 ## How to use
 
 Download the example [or clone the repo](https://github.com/zeit/next.js):
